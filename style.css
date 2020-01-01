@@ -1,0 +1,173 @@
+body {
+
+
+	background-image: linear-gradient(to right, rgba(161,85,207), rgba(101,22,148));
+
+
+}
+
+#head-banner {
+
+	margin-top: 125px;
+	padding: auto;
+	padding-bottom: 155px;
+
+}
+
+#head-banner h1{
+
+	font-size: 4rem;
+	color: white;
+}
+
+#head-banner h2 {
+
+	font-size: 3rem;
+	color: #e9e6eb;
+}
+
+#head-banner p {
+
+	font-size: 1.5rem;
+	color: #b4b8b5;
+}
+
+/* About Me */
+
+.heading-text {
+
+	color: white;
+	font-family: 'Fondamento', cursive;
+
+}
+
+.heading-par {
+
+	color: white;
+	font-weight: 300;
+	text-align: center;
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+#about-me {
+
+
+
+}
+
+.my-img {
+
+	border-radius: 125px;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+/* Head Text */
+
+.head-text {
+
+	color: white;
+	text-align: center;
+	font-family: 'Fondamento', cursive;
+
+}
+
+.myself-text {
+
+	font-weight: 400;
+	font-variant-caps: all;
+	padding-top: 55px;
+	color: #caded8;
+	line-height: 38px;
+}
+
+.logo-lan img{
+
+	width: 175px;
+	height: auto;
+}
+
+.work-exp {
+
+	margin-top: 35px;
+
+	padding: 75px;
+}
+
+.text-box {
+
+	text-align: center;
+	padding: 25px;
+	font-weight: 400;
+}
+
+.con-details{
+
+	margin-top: 55px;
+	padding: 35px;
+	color: white;
+	border-left: dashed 2px white;
+}
+
+.fa {
+  
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  }
+
+ .fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.footer {
+
+	padding: 55px;
+}
+
+.foot-end {
+
+	padding: 25px;
+	text-align: center;
+	color: #dda2f2;
+	font-family: 'El Messiri', sans-serif;
+}
